@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9Hp+tvxVks=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iftim\\Documents\\GitHub\\AI-Research-assistant\\src\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iftim\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\iftim\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\iftim\Documents\GitHub\AI-Research-assistant\src\Domain\obj\Debug\net9.0\ref\Domain.dll
